@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="9.3">
+<file name="/Users/adambakeer/Documents/GitHub/Java_CWK/cwk1/src/main/java/Track.java">
+</file>
+<file name="/Users/adambakeer/Documents/GitHub/Java_CWK/cwk1/src/main/java/TrackInfo.java">
+</file>
+<file name="/Users/adambakeer/Documents/GitHub/Java_CWK/cwk1/src/main/java/Point.java">
+<error line="31" column="43" severity="warning" message="&apos;longitude&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="31" column="61" severity="warning" message="&apos;latitude&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="31" column="78" severity="warning" message="&apos;elevation&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+</file>
+<file name="/Users/adambakeer/Documents/GitHub/Java_CWK/cwk1/src/main/java/ConvertToKML.java">
+<error line="1" column="1" severity="warning" message="Block comment has incorrect indentation level 0, expected is 1, indentation should be the same level as line 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.CommentsIndentationCheck"/>
+</file>
+<file name="/Users/adambakeer/Documents/GitHub/Java_CWK/cwk1/src/main/java/PlotApplication.java">
+</file>
+<file name="/Users/adambakeer/Documents/GitHub/Java_CWK/cwk1/src/main/java/GPSException.java">
+</file>
+<file name="/Users/adambakeer/Documents/GitHub/Java_CWK/cwk1/src/main/java/ElevationPlot.java">
+</file>
+</checkstyle>
